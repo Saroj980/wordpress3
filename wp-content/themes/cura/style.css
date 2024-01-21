@@ -23,17 +23,3 @@ Underscores is distributed under the terms of the GNU GPL v2 or later.
 #yith-quick-view-content .input-group-addon.quantity-decrease,  #yith-quick-view-content .input-group-addon.quantity-increase{
     display: none;
 }
-/* Styling for the submit button with black color */
-.full-width-form input[type="submit"] {
-    background-color: #000;
-    /* Black color */
-    color: white;
-    border: none;
-    padding: 15px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    border-radius: 4px;
-    cursor: pointer;
-}

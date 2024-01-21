@@ -30617,7 +30617,7 @@ a:hover.transparent-masionary-btn-hover {
 }
 
 .hover_all_black_effect:hover .elementor-element > .heading-hover-text.elementor-widget-container {
-  background-image: url(assets/images/rect_dash2_hover.png) !important;
+  background-image: url(https://github.com/Saroj980/wordpress3/wp-content/themes/cura/assets/css/assets/images/rect_dash2_hover.png) !important;
   background-position: 0px 40px !important;
   background-repeat: no-repeat !important;
 }
@@ -35688,7 +35688,7 @@ body .rt-mobile-menu-outer:after {
 .minimal-menu-overlay,
 .minimal-logo-overlay,
 .rt-menu-overlay {
-  /*background: url(../images/glow-pattern.png) no-repeat right bottom #030315;*/
+  /*background: url(https://github.com/Saroj980/wordpress3/wp-content/themes/cura/assets/images/glow-pattern.png) no-repeat right bottom #030315;*/
   background: #030315;
 }
 
@@ -41915,7 +41915,7 @@ header#header.sticky-active .rt-cart-box.hidden-md {display : none;}
     font-weight: 500;
 }
 .appointment-booking select.wpcf7-form-control.wpcf7-select {
-    background: url(assets/images/ar-d.png) no-repeat right #077ece;
+    background: url(https://github.com/Saroj980/wordpress3/wp-content/themes/cura/assets/css/assets/images/ar-d.png) no-repeat right #077ece;
     background-position-x: 96%;
     background-size: 12px;
     -webkit-appearance: none;
@@ -41936,7 +41936,7 @@ header#header.sticky-active .rt-cart-box.hidden-md {display : none;}
 }
 
 .rt-selectbox{ opacity: 0;position: absolute;left: 0px;right: 0px;top: 0px;bottom: 0px;}
-.country_select, .state_select {min-height: 50px; font-size: 16px; color: #101010; background: #eff0f2; border: 1px #eff0f2 solid; border-radius: 0; padding: 10px 10px 10px 7px; line-height: inherit; background: #eff0f2 url(../images/icon.png) no-repeat center right 5px;-moz-appearance: none;-webkit-appearance: none;}
+.country_select, .state_select {min-height: 50px; font-size: 16px; color: #101010; background: #eff0f2; border: 1px #eff0f2 solid; border-radius: 0; padding: 10px 10px 10px 7px; line-height: inherit; background: #eff0f2 url(https://github.com/Saroj980/wordpress3/wp-content/themes/cura/assets/images/icon.png) no-repeat center right 5px;-moz-appearance: none;-webkit-appearance: none;}
 
 .blog .site-main.post .wraper_blog_main > .container {
     padding-top: 100px;
